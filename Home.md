@@ -26,6 +26,7 @@ If you're looking for an older release see the [Torque 3D Archive](wiki/Torque-3
 
 ### Working On Your Project
 * [Using the Project Manager](wiki/Project-Manager)
+* [Using CMake for build project](wiki/Use_CMake_project_generator)
 * [Creating a New Project Based on a Template](wiki/Creating-a-New-Project-Based-on-a-Template)
 * [Compiling Torque 3D on Windows](wiki/Compiling-Torque-3D-on-Windows)
 * [Compiling Torque 3D on Linux](wiki/Compiling-Torque-3D-on-Linux)
